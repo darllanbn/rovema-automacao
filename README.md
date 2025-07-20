@@ -35,6 +35,8 @@ Ambos os sistemas foram projetados para reduzir o trabalho manual, evitar erros 
 - HTML + JS (formulário dinâmico)
 - Google Colab Callback API
 
+<img width="1705" height="471" alt="image" src="https://github.com/user-attachments/assets/fb847d91-e2b2-4c68-9466-1fe04fac4c12" />
+
 ---
 
 ## 🧩 Módulo 2 – Leitura de XMLs e Preenchimento de Planilhas (Apps Script)
