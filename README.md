@@ -59,6 +59,7 @@ Ambos os sistemas foram projetados para reduzir o trabalho manual, evitar erros 
 - Regex para XML
 
 ---
+<img width="1846" height="391" alt="image" src="https://github.com/user-attachments/assets/e4ac166a-898e-47a1-bf05-a55c2d5e2705" />
 
 ## 📈 Impacto
 
